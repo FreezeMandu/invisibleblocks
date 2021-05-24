@@ -2,8 +2,13 @@
  "name": "invisibleblocks",
  "displayName": "Invisible Blocks",
  "author": "Mandu",
- "version": "1.47",
+ "version": "1.471",
  "minGameVersion": "126",
  "hidden": "true",
- "description": "Invisible Blocks texture pack"
+ "description": "
+  Invisible Blocks texture
+
+  Thanks To
+  ss심
+  "
 }
