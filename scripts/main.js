@@ -8,5 +8,6 @@ Blocks.thoriumWallLarge.hasShadow = false
 Blocks.surgeWallLarge.hasShadow = false
 Blocks.plastaniumWallLarge.hasShadow = false
 Blocks.phaseWallLarge.hasShadow = false
+Blocks.titaniumWallLarge.hasShadow = false
 
 Blocks.thermalGenerator.hasShadow =  false
