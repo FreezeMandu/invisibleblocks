@@ -1,5 +1,5 @@
 Vars.content.blocks().each(b => {
-if((b instanceof Wall) || (b instanceof BaseTurret)) b.hasShadow = false;
+if((b.update)) b.hasShadow = false;
 });
 
 /* Blocks.blastDrill.hasShadow = false //Drills
