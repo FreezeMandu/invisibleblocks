@@ -1,6 +1,6 @@
 Vars.content.blocks.each(b => {
-    if(b.update) b.hasShadow = false;
-    });
+if(b.update) b.hasShadow = false;
+});
 
 /* Blocks.blastDrill.hasShadow = false //Drills
 Blocks.laserDrill.hasShadow = false
