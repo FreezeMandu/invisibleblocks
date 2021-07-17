@@ -2,7 +2,11 @@
  "name": "invisibleblocks",
  "displayName": "Invisible Blocks",
  "author": "Mandu",
+<<<<<<< HEAD
  "version": "1.70",
+=======
+ "version": "1.66",
+>>>>>>> 5671349174c9fa5864989f06ad1e74c84cd4ced8
  "minGameVersion": "126",
  "hidden": "true",
  "description": "Invisible Blocks Texture Pack.\nConvenience Mode\n\nThanks To\nss심\nsk7725"
