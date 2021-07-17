@@ -1,4 +1,4 @@
-Vars.content.blocks.each(b => {
+Vars.content.blocks().each(b => {
 if((b instanceof Wall) || (b instanceof BaseTurret)) b.hasShadow = false;
 });
 
