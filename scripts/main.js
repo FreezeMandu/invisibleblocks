@@ -4,4 +4,4 @@ if(((b instanceof Wall) || (b instanceof BaseTurret) || (b instanceof Drill))) b
 
 Blocks.thermalGenerator.hasShadow =  false
 Blocks.payloadRouter.hasShadow = false
-Blocks.payload.hasShadow = false
+Blocks.payloadConveyor.hasShadow = false
